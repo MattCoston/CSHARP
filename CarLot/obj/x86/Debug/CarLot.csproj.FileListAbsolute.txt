@@ -1,0 +1,6 @@
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\bin\Debug\CarLot.exe
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\bin\Debug\CarLot.pdb
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\obj\x86\Debug\CarLot.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\obj\x86\Debug\CarLot.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\obj\x86\Debug\CarLot.exe
+C:\Users\Matt\Desktop\CSharp\CSharp\CarLot\obj\x86\Debug\CarLot.pdb

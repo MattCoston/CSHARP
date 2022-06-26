@@ -1,0 +1,6 @@
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\obj\x86\Debug\IRentable.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\obj\x86\Debug\IRentable.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\bin\Debug\IRentable.exe
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\bin\Debug\IRentable.pdb
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\obj\x86\Debug\IRentable.exe
+C:\Users\Matt\Desktop\CSharp\CSharp\IRentable\obj\x86\Debug\IRentable.pdb

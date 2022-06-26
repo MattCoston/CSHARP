@@ -1,0 +1,11 @@
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\bin\Debug\netcoreapp2.2\Books_Inventory.deps.json
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\bin\Debug\netcoreapp2.2\Books_Inventory.runtimeconfig.json
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\bin\Debug\netcoreapp2.2\Books_Inventory.runtimeconfig.dev.json
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\bin\Debug\netcoreapp2.2\Books_Inventory.dll
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.csprojAssemblyReference.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.AssemblyInfoInputs.cache
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.AssemblyInfo.cs
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\bin\Debug\netcoreapp2.2\Books_Inventory.pdb
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.dll
+C:\Users\Matt\Desktop\CSharp\CSharp\Books_Inventory\Books_Inventory\obj\Debug\netcoreapp2.2\Books_Inventory.pdb
